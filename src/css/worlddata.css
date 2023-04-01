@@ -1,0 +1,8 @@
+.worlddata{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 500px;
+    background-color: #fff;
+}

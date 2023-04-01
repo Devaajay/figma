@@ -1,0 +1,27 @@
+.footer{
+    background-color: #fff;
+    height: 40px;
+    width: 92%;
+    margin-left:4%;
+    margin-right: 4%;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.data{
+font-size: 0.6rem;
+}
+
+.number_data{
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+    margin-left: 15px;
+}
+.flowchart{
+    align-items: center;
+    display: flex;
+    
+    flex-direction: column;
+    margin-left: 130px;
+}
